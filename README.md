@@ -10,6 +10,7 @@
 -   [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250105.md)
 -   [시맨틱 마크업이 무엇이며 중요한 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250106.md)
 -   [undefined와 null의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250107.md)
+-   [useEffect가 호출되는 시점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250108.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
