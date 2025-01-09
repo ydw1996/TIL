@@ -11,6 +11,7 @@
 -   [시맨틱 마크업이 무엇이며 중요한 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250106.md)
 -   [undefined와 null의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250107.md)
 -   [useEffect가 호출되는 시점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250108.md)
+-   [자바스크립트의 Promise](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250109.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
