@@ -12,6 +12,7 @@
 -   [undefined와 null의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250107.md)
 -   [useEffect가 호출되는 시점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250108.md)
 -   [자바스크립트의 Promise](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250109.md)
+-   [ES6 도입 (ECMAScript 2015)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250110.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
