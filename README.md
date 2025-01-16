@@ -15,6 +15,7 @@
 -   [ES6 도입 (ECMAScript 2015)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250110.md)
 -   [함수 선언식과 함수 표현식의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250113.md)
 -   [Promise의 resolve와 fulfilled의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250114.md)
+-   [Error Boundary란 무엇이며, 왜 사용해야 할까?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250115.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
