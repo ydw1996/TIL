@@ -16,6 +16,7 @@
 -   [함수 선언식과 함수 표현식의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250113.md)
 -   [Promise의 resolve와 fulfilled의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250114.md)
 -   [Error Boundary란 무엇이며, 왜 사용해야 할까?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250115.md)
+-   [CORS (Cross-Origin Resource Sharing)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250116.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
