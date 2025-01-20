@@ -18,6 +18,7 @@
 - [Error Boundary란 무엇이며, 왜 사용해야 할까?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250115.md)
 - [CORS (Cross-Origin Resource Sharing)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250116.md)
 - [React에서 불필요한 리렌더링 방지 방법](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250119.md)
+- [실행 컨텍스트(Execution Context)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250120.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
