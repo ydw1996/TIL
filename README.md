@@ -20,6 +20,7 @@
 -   [React에서 불필요한 리렌더링 방지 방법](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250119.md)
 -   [실행 컨텍스트(Execution Context)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250120.md)
 -   [이벤트 루프(Event Loop)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250121.md)
+-   [localStorage와 sessionStorage의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250122.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
