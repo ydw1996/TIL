@@ -22,6 +22,7 @@
 - [이벤트 루프(Event Loop)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250121.md)
 - [localStorage와 sessionStorage (Web Storage)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250122.md)
 - [인터넷 창에 www.google.com를 입력하면 무슨일이 일어날까?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250126.md)
+- [자바스크립트의 호이스팅(Hoisting)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250127.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
