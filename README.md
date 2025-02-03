@@ -24,6 +24,7 @@
 - [인터넷 창에 www.google.com를 입력하면 무슨일이 일어날까?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250126.md)
 - [자바스크립트의 호이스팅(Hoisting)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250127.md)
 - [이벤트 버블링(Bubbling) & 캡처링 (Capturing)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250131.md)
+- [HTTP & RESTful API](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250203.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
