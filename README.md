@@ -28,6 +28,7 @@
 - [CSS 길이 단위 px, em, rem 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250207.md)
 - [HTML 데이터 속성(data-\*)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250212.md)
 - [전역 상태 관리 라이브러리를 사용하는 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250215.md)
+- [HTML <!Doctype>이란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250216.md)
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
