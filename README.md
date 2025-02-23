@@ -36,6 +36,7 @@
 
 ### [Front-end](https://github.com/ydw1996/TIL/tree/main/front-end)
 
+- [2025년 2월 3주차](https://github.com/ydw1996/TIL/tree/main/front-end/2025-02-week3.md)
 - [2025년 1월 4주차](https://github.com/ydw1996/TIL/tree/main/front-end/2025-01-week4.md)
 - [2025년 1월 2주차](https://github.com/ydw1996/TIL/tree/main/front-end/2025-01-week2.md)
 
