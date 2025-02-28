@@ -2,7 +2,7 @@
 
 ## [매일 메일](https://github.com/ydw1996/TIL/tree/main/maeil-mail)
 
-### **JavaScript 기본 개념**
+### **JavaScript 관련 개념**
 
 -   [이벤트 버블링(Bubbling) & 캡처링 (Capturing)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250131.md)
 -   [자바스크립트의 호이스팅(Hoisting)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250127.md)
@@ -11,6 +11,7 @@
 -   [Promise의 resolve와 fulfilled의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250114.md)
 -   [ES6 도입 (ECMAScript 2015)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250110.md)
 -   [자바스크립트의 Promise](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250109.md)
+-   [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250105.md)
 -   [싱글 스레드 언어인 자바스크립트, 동시에 여러 작업이 수행 가능한 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250102.md)
 -   [인터프리터 언어인 자바스크립트에서 어떻게 호이스팅이 가능한가?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20241229.md)
 
@@ -25,15 +26,16 @@
 
 ### **웹 최적화 & 성능**
 
+-   [CI/CD(지속적 통합 & 지속적 배포)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250227.md)
 -   [이미지 확장자의 종류와 특징](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250222.md)
 -   [전역 상태 관리 라이브러리를 사용하는 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250215.md)
--   [HTTP & RESTful API](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250203.md)
 -   [CORS (Cross-Origin Resource Sharing)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250116.md)
 -   [이미지 크기가 클 경우 개선하기 위한 방법](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250101.md)
 -   [SSR에 대해 설명해보자](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20241228.md)
 
 ### **브라우저 & 네트워크**
 
+-   [HTTP & RESTful API](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250203.md)
 -   [인터넷 창에 www.google.com를 입력하면 무슨일이 일어날까?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250126.md)
 -   [localStorage와 sessionStorage (Web Storage)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250122.md)
 -   [Node와 Element의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250217.md)
@@ -44,7 +46,6 @@
 -   [HTML 데이터 속성(data-\*)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250212.md)
 -   [CSS 길이 단위 px, em, rem 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250207.md)
 -   [시맨틱 마크업이 무엇이며 중요한 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250106.md)
--   [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250105.md)
 
 ## [주간 TIL 정리](https://github.com/ydw1996/TIL/tree/main/weekly)
 
