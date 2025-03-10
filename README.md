@@ -4,7 +4,7 @@
 
 ### **JavaScript 관련 개념**
 
-- [상황에 따른 this 바인딩](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250310.md)
+- [자바스크립트의 this 바인딩](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250310.md)
 - [이벤트 버블링(Bubbling) & 캡처링 (Capturing)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250131.md)
 - [자바스크립트의 호이스팅(Hoisting)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250127.md)
 - [이벤트 루프(Event Loop)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250121.md)
