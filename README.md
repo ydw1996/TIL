@@ -34,6 +34,7 @@
 
 ### **웹 최적화 & 성능**
 
+- [HTML <link> 요소의 rel 속성 값: preconnect, preload, prefetch](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250317.md)
 - [CI/CD(지속적 통합 & 지속적 배포)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250227.md)
 - [이미지 확장자의 종류와 특징](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250222.md)
 - [전역 상태 관리 라이브러리를 사용하는 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250215.md)
