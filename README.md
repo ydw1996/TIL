@@ -10,17 +10,19 @@
 - [이벤트 루프(Event Loop)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250121.md)
 - [실행 컨텍스트(Execution Context)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250120.md)
 - [Promise의 resolve와 fulfilled의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250114.md)
+- [함수 선언식과 함수 표현식의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250113.md)
 - [ES6 도입 (ECMAScript 2015)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250110.md)
 - [자바스크립트의 Promise](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250109.md)
+- [undefined와 null의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250107.md)
+- [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250105.md)
 - [싱글 스레드 언어인 자바스크립트, 동시에 여러 작업이 수행 가능한 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250102.md)
 - [인터프리터 언어인 자바스크립트에서 어떻게 호이스팅이 가능한가?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20241229.md)
 
-### JavaScript 코드 스타일 & 테스트
+### 프로젝트 / 협업 / 코드 관리
 
+- [모노레포(Monorepo)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250320.md)
 - [테스트 코드와 TDD 란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250220.md)
-- [함수 선언식과 함수 표현식의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250113.md)
-- [undefined와 null의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250107.md)
-- [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250105.md)
+- [CI/CD(지속적 통합 & 지속적 배포)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250227.md)
 
 ### **React 관련 개념**
 
@@ -35,7 +37,6 @@
 ### **웹 최적화 & 성능**
 
 - [HTML <link> 요소의 rel 속성 값: preconnect, preload, prefetch](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250317.md)
-- [CI/CD(지속적 통합 & 지속적 배포)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250227.md)
 - [이미지 확장자의 종류와 특징](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250222.md)
 - [전역 상태 관리 라이브러리를 사용하는 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250215.md)
 - [CORS (Cross-Origin Resource Sharing)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250116.md)
