@@ -18,8 +18,9 @@
 - [싱글 스레드 언어인 자바스크립트, 동시에 여러 작업이 수행 가능한 이유](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250102.md)
 - [인터프리터 언어인 자바스크립트에서 어떻게 호이스팅이 가능한가?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20241229.md)
 
-### 프로젝트 / 협업 / 코드 관리
+### 개발 환경 / 프로젝트 구조 / 코드 관리
 
+- [패키지 매니저 pnpm과 Yarn Berry](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250401.md)
 - [모노레포(Monorepo)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250320.md)
 - [테스트 코드와 TDD 란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250220.md)
 - [CI/CD(지속적 통합 & 지속적 배포)란?](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250227.md)
