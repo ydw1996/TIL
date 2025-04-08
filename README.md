@@ -54,6 +54,7 @@
 
 ### **CSS & HTML 개념**
 
+- [`<a>` 태그를 이용해 외부 페이지를 열 때 보안 체크리스트](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250408.md)
 - [Content-Type 헤더](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250325.md)
 - [쌓임 맥락(Stacking Context)](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250311.md)
 - [transform vs position을 활용한 위치 변경](https://github.com/ydw1996/TIL/tree/main/maeil-mail/20250309.md)
